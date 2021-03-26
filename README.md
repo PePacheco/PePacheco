@@ -2,10 +2,10 @@
 <h3 align="left">About me:</h3>
 
 
-- 🔭 I’m currently an iOS Developer at Apple Developer Academy | PUCRS
+- 📝  I’m currently an iOS Developer at Apple Developer Academy | PUCRS
 
 
-- 📝  Used to work as a Back-end Developer
+- 🔭 Used to work as a Back-end Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
