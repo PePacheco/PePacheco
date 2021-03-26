@@ -2,8 +2,9 @@
 <h3 align="left">About me:</h3>
 
 
-- 📝  I’m currently an iOS Developer at Apple Developer Academy | PUCRS
+- ⚙️ iOS Developer at Apple Developer Academy | PUCRS
 
+- 📜 Studying Computer Science at PUCRS
 
 - 🔭 Used to work as a Back-end Developer
 
