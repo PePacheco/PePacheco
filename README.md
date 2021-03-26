@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Pacheco</h1>
 
-- 🌱  I’m currently learning iOS Development with UIKit and SwiftUI
+- 🔭 I’m currently an iOS Developer at Apple Developer Academy | PUCRS
 
 
-- 🔭 I’m currently working on Apple Developer Academy | PUCRS
+- 📝  Used to work as a Back-end Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
