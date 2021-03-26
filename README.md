@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Pacheco</h1>
-
+<h3 align="left">About me:</h3>
 - 🔭 I’m currently an iOS Developer at Apple Developer Academy | PUCRS
 
 
