@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Pacheco</h1>
 <h3 align="left">About me:</h3>
 
-
-- ⚙️ iOS Developer at Apple Developer Academy | PUCRS
-
 - 📜 Studying Computer Science at PUCRS
 
 - 🔭 Used to work as a Back-end Developer
