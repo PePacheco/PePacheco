@@ -3,7 +3,7 @@
 
 - 📜 Studying Computer Science at PUCRS
 
-- 🔭 Work as an iOS Developer at Zup
+- 🔭 Work as an iOS Developer at Globant
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
